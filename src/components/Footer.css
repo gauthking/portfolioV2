@@ -1,0 +1,14 @@
+footer {
+  background-color: rgb(14, 16, 16);
+  padding: 10px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer div {
+  color: aliceblue;
+  font-family: "Outfit", sans-serif;
+  font-size: 20px;
+}

@@ -1,0 +1,81 @@
+.skills {
+  margin: 0;
+  height: auto;
+  background-image: linear-gradient(
+    to bottom,
+    #d92466,
+    #bf1372d1,
+    #a11078f1,
+    #7e177d,
+    #571d7c
+  );
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* border-bottom: 20px solid rgba(255, 255, 255, 0.315); */
+}
+
+.skillbox {
+  margin-bottom: 120px;
+  padding: 44px;
+  padding-left: 150px;
+  padding-right: 150px;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  border-style: solid;
+  border-width: 8px 6px;
+  border-color: rgba(222, 184, 135, 0.053) rgba(228, 43, 195, 0.8);
+  -webkit-box-shadow: 0px 2px 25px 1px rgba(211, 120, 231, 0.393);
+  min-width: 300px;
+}
+
+@media (max-width: 903px) {
+  .skillbox {
+    grid-template-columns: 2fr 2fr;
+    padding: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    height: 330px;
+    overflow-y: scroll;
+  }
+}
+
+.skillimg {
+  -webkit-filter: drop-shadow(0 0 0.25rem rgb(201, 226, 57));
+  width: 5rem;
+  margin-bottom: 2px;
+  transition: all 0.2s ease-in-out;
+}
+
+.skillimg:hover {
+  transform: scale(1.15);
+}
+
+.skilltype {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 4px;
+}
+
+.skilltype h5 {
+  color: #d8d6dedc;
+  text-shadow: 1px 1px 2px rgb(102, 75, 145);
+}
+
+.skills h3 {
+  font-family: "Outfit", sans-serif;
+  margin-bottom: 70px;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 3rem;
+  color: rgba(255, 255, 255, 0.699);
+  filter: drop-shadow(0 0 0.55rem #0e000d);
+  cursor: default;
+}
