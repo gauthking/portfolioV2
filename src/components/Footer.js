@@ -3,7 +3,8 @@ import "./Footer.css"
 function Footer() {
     return (
         <footer>
-            <div>C P Gautham Krishna . Made with React 🚀</div>
+            <div>Made with React 🚀</div>
+            <div>C P Gautham Krishna</div>
         </footer>
     )
 }

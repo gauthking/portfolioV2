@@ -1,14 +1,17 @@
 footer {
   background-color: rgb(14, 16, 16);
   padding: 10px;
-  height: 30px;
+  height: fit-content;
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 footer div {
   color: aliceblue;
   font-family: "Outfit", sans-serif;
   font-size: 20px;
+  margin-top: 7px;
 }

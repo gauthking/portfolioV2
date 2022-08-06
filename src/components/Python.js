@@ -6,7 +6,7 @@ function Python() {
         <>
             <ParticleBG />
             <div className="python">
-                <div className='pythonbox' data-aos="zoom-in-right">
+                <div className='pythonbox'>
                     <h3>Duplicate File Cleaner</h3>
                     <p>Uses python modules like os and filecmp to delete the duplicate
                         files present in the CD. This is just a 15 line code and it is
@@ -20,7 +20,7 @@ function Python() {
 
                     </div>
                 </div>
-                <div className='pythonbox' data-aos="zoom-in-right">
+                <div className='pythonbox'>
                     <h3>Simple Voice Assistant</h3>
                     <p> I used pyttsx3 and speech
                         recognition modules and some other libraries for this project. You
@@ -36,7 +36,7 @@ function Python() {
                         >
                     </div>
                 </div>
-                <div className='pythonbox' data-aos="zoom-in-right">
+                <div className='pythonbox' >
                     <h3>NFT Minting App</h3>
                     <p> Python code I made to mint my NFT Collection to OpenSea NFT
                         Marketplace. This code cannot be cloned and reused. This
@@ -49,7 +49,7 @@ function Python() {
                         >
                     </div>
                 </div>
-                <div className='pythonbox' data-aos="zoom-in-right">
+                <div className='pythonbox'>
                     <h3>Pywhatkit Functions</h3>
                     <p>  Made use of the pywhatkit python module to perform simple and
                         basic automation tools like sending messages on whatsapp, playing

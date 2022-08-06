@@ -1,10 +1,6 @@
-.nftmain {
-  height: 100vh;
-}
-
 .nft {
   margin: 0;
-  height: max-content;
+  height: auto;
   background-image: linear-gradient(
     to bottom,
     #d92466a0,
@@ -68,5 +64,5 @@
 }
 
 #nftbox2 {
-  margin-bottom: 10rem;
+  margin-bottom: 20rem;
 }
