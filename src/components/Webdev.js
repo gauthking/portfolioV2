@@ -30,10 +30,10 @@ function ProjectMain() {
                 </div>
                 <div className='webdevbox'>
                     <h3>Tinder Clone - MERN Stack Build</h3>
-                    <p>This tinder clone is built using the MERN stack and Firebase for authentication purposes. I have also made the use of Firestore to store additional user info and for displaying them in the USER info part of the App. MongoDB is used here to pull the information of the dates that is stored in the project collection. This is just a basic MERN stack build. More features coming soon</p>
+                    <p>This tinder clone is built using the MERN stack and Firebase for authentication purposes. I have also made the use of Firestore to store additional user info and for displaying them in the USER info part of the App. MongoDB is used here to pull the information of the dates💝 that is stored in the project collection. This is just a basic MERN stack build. More features coming soon. The Repository link is only for the frontend app. The backend is deployed using Heroku and has not been pushed into GitHub.</p>
                     <div className="links">
                         <a
-                            href="https://github.com/gauthking/amazon-clone-fullstack"
+                            href="https://github.com/gauthking/Tinder-MERN"
                             target="/blank"
                         >GitHub</a
                         >
