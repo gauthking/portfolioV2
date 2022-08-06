@@ -66,7 +66,7 @@ function ProjectMain() {
                     <p>Repository for this Portfolio page is given below in the github link</p>
                     <div className="links">
                         <a
-                            href=""
+                            href="https://github.com/gauthking/portfolioV2"
                             target="/blank"
                         >GitHub</a
                         >
