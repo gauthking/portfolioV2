@@ -21,6 +21,13 @@
   border-color: rgba(222, 184, 135, 0.053) rgba(228, 43, 195, 0.8);
   -webkit-box-shadow: 0px 2px 25px 1px rgba(99, 37, 113, 0.393);
   height: fit-content;
+  transition: all 0.2s ease-in-out;
+}
+
+.pythonbox:hover {
+  transform: scale(1.03);
+  z-index: 3;
+  -webkit-box-shadow: 0px 2px 15px -1px rgba(0, 0, 0, 0.879);
 }
 
 .pythonbox > h3 {
