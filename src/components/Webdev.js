@@ -37,7 +37,7 @@ function ProjectMain() {
                             target="/blank"
                         >GitHub</a
                         >
-                        <a href="https://62eac6c108c020005b0f9cce--gauthking-makes-great-sites.netlify.app/" target="/blank"
+                        <a href="https://62f1f162c73c6766d6ee4bfb--tindermerncloneee.netlify.app/" target="/blank"
                         >Live</a
                         >
                     </div>
