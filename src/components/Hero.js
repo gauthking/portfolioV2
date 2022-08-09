@@ -1,7 +1,6 @@
 import React from 'react'
 import "./Hero.css"
 import ParticleBG from "./ParticleBG";
-import Typerwriter from './Typerwriter';
 
 
 function Hero() {
@@ -11,7 +10,6 @@ function Hero() {
             <ParticleBG />
 
             <div className="hero">
-                <Typerwriter />
                 <h2 className="myname" data-aos="zoom-in" data-aos-duration="600" >
                     Gautham Krishna
                 </h2>
