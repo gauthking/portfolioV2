@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import About from "./components/About";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -11,9 +11,13 @@ import Python from "./components/Python";
 import Dapp from "./components/Dapp";
 import Footer from "./components/Footer";
 import NFT from "./components/NFT";
+import aos from "aos";
 
 
 function App() {
+  useEffect(() => {
+    aos.refresh();
+  }, [])
   return (
     <Router>
       <Routes>
