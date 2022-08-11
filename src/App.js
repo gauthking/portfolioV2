@@ -16,7 +16,7 @@ import aos from "aos";
 
 function App() {
   useEffect(() => {
-    aos.refresh();
+    aos.refreshHard();
   }, [])
   return (
     <Router>
