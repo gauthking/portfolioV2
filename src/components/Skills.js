@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./Skills.css"
 import cam from "../cam.png"
 import webdev from "../webdev.png"
@@ -18,11 +18,12 @@ import bs from "../bs.png"
 
 
 function Skills() {
+
     return (
         <div className="skills" id="skillsme">
-            <h3 data-aos="fade-down-left">Skills</h3>
+            <h3>Skills</h3>
 
-            <div className='skillbox' data-aos="zoom-in-up">
+            <div className='skillbox' >
 
                 <div className="skilltype">
                     <img src={webdev} className="skillimg" alt="" />

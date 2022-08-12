@@ -1,7 +1,8 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import ParticleBG from './ParticleBG'
 import "./ProjectPage.css"
 import { Link } from "react-router-dom"
+
 
 function ProjectPage() {
 
@@ -9,7 +10,7 @@ function ProjectPage() {
         <>
             <ParticleBG />
             <div className='projects'>
-                <div className='items' data-aos="zoom-in-down" >
+                <div className='items'  >
                     <Link to="/webdev" style={{ textDecoration: 'none' }}>
                         <div className="itembox" >
                             <h2>Web-Development</h2>

@@ -3,6 +3,7 @@ import "./Hero.css"
 import ParticleBG from "./ParticleBG";
 
 
+
 function Hero() {
 
     return (
@@ -10,10 +11,10 @@ function Hero() {
             <ParticleBG />
 
             <div className="hero">
-                <h2 className="myname" data-aos="zoom-in" data-aos-duration="600" >
+                <h2 className="myname">
                     Gautham Krishna
                 </h2>
-                <div className="quote" id="quoteid" data-aos="zoom-out-down">
+                <div className="quote" id="quoteid">
                     "Destiny got big plans for you"
                 </div>
             </div>

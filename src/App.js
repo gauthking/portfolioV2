@@ -11,13 +11,10 @@ import Python from "./components/Python";
 import Dapp from "./components/Dapp";
 import Footer from "./components/Footer";
 import NFT from "./components/NFT";
-import aos from "aos";
 
 
 function App() {
-  useEffect(() => {
-    aos.refreshHard();
-  }, [])
+
   return (
     <Router>
       <Routes>

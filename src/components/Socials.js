@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./Socials.css"
 import insta from "../insta.png"
 import tweet from "../tweet.png"
@@ -8,11 +8,12 @@ import hack from "../hack.png"
 
 
 function Socials() {
+
     return (
         <div class="socials" id="socialsme">
-            <h3 data-aos="zoom-in-right">Socials</h3>
-            <div class="socialsbox" data-aos="zoom-in">
-                <div class="socialtype" data-aos="fade-up" >
+            <h3>Socials</h3>
+            <div class="socialsbox">
+                <div class="socialtype">
                     <img src={insta} alt="" />
                     <a
                         href="https://www.instagram.com/_thegauthamkrishhna._/"
@@ -21,7 +22,7 @@ function Socials() {
                     >Instagram</a
                     >
                 </div>
-                <div class="socialtype" data-aos="fade-up"  >
+                <div class="socialtype" >
                     <img src={tweet} alt="" />
                     <a
                         href="https://twitter.com/pointlessduhh"
@@ -30,7 +31,7 @@ function Socials() {
                     >Twitter</a
                     >
                 </div>
-                <div class="socialtype" data-aos="fade-up" >
+                <div class="socialtype" >
                     <img src={git} alt="" />
                     <a
                         href="https://github.com/gauthking"
@@ -39,7 +40,7 @@ function Socials() {
                     >GitHub</a
                     >
                 </div>
-                <div class="socialtype" data-aos="fade-up" >
+                <div class="socialtype">
                     <img src={linkedin} alt="" />
                     <a
                         href="https://www.linkedin.com/in/c-p-gautham-krishna-580450227"
@@ -48,7 +49,7 @@ function Socials() {
                     >LinkedIn</a
                     >
                 </div>
-                <div class="socialtype" data-aos="fade-up"  >
+                <div class="socialtype" >
                     <img src={hack} alt="" />
                     <a
                         href="https://www.hackerrank.com/GAUTHAM1234"

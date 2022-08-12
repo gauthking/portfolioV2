@@ -1,7 +1,9 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import ParticleBG from './ParticleBG'
 import "./Python.css"
+
 function Python() {
+
     return (
         <>
             <ParticleBG />

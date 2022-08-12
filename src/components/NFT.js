@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import "./NFT.css"
 import ParticleBG from './ParticleBG'
+
+
 function NFT() {
+
     return (
         <div className='nftmain'>
             <ParticleBG />

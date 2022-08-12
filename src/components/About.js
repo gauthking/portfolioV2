@@ -4,8 +4,8 @@ import "./About.css"
 function About() {
     return (
         <div className="ABOUT" id="aboutme">
-            <h3 data-aos="zoom-in" >About Me</h3>
-            <div className="aboutbox" data-aos="zoom-in-left" >
+            <h3 >About Me</h3>
+            <div className="aboutbox" >
                 <div>
                     Hello. I'm Gautham Krishhna and I am a first year undergrad studying
                     at VIT University. I love to code and I'm super passionate about web
