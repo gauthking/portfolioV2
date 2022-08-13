@@ -7,7 +7,7 @@ import python from "../python.png"
 import sol from "../sol.png"
 import css from "../css.png"
 import react from "../react.png"
-import js from "../js.png"
+import jsnew from "../jsnew.png"
 import fb from "../firebase.png"
 import mdb from "../mdb.png"
 import tw from "../tw.png"
@@ -73,7 +73,7 @@ function Skills() {
                 </div>
 
                 <div className="skilltype">
-                    <img src={js} className="skillimg" alt="" />
+                    <img src={jsnew} className="skillimg" alt="" />
                     <h5 className="skilltext">JavaScript</h5>
                 </div>
 
