@@ -7,7 +7,7 @@ function About() {
             <h3 >About Me</h3>
             <div className="aboutbox" >
                 <div>
-                    Hello. I'm Gautham Krishhna and I am a first year undergrad studying
+                    Hello. I'm Gautham Krishhna and I am a second year undergrad studying
                     at VIT University. I love to code and I'm super passionate about web
                     development and design. I'm familiar with REACTJS and have build many apps with it, I find it really helpful in the frontend part.
                     For a full-stack web app I personally like working with MERN stack.<br />

@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Hero.css"
 import ParticleBG from "./ParticleBG";
+import TypeWriter from './TypeWriter';
 
 
 
@@ -11,13 +12,21 @@ function Hero() {
             <ParticleBG />
 
             <div className="hero">
-                <h2 className="myname">
-                    Gautham Krishna
-                </h2>
-                <div className="quote" id="quoteid">
-                    "Destiny got big plans for you"
+                <div className='hero__box'>
+                    <h2 className="myname">
+                        Gautham Krishna
+
+                    </h2>
+                    <div className='hero__type'>
+                        <p>I'm a</p> <TypeWriter />
+                    </div>
+
                 </div>
+
             </div>
+
+
+
 
 
         </>
