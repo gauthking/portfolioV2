@@ -94,6 +94,20 @@ function ProjectMain() {
                     </div>
                 </div>
                 <div className='webdevbox'>
+                    <h3>Anime Facts API - Frontend</h3>
+                    <p>A frontend app that retrieves anime information of 13 popular anime shows from the anime-facts REST API</p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/gauthking/anime-facts-restapi-frontend"
+                            target="/blank"
+                        >GitHub</a
+                        >
+                        <a href="https://the-awesome-gauthking-site.netlify.app/"
+                        >Live</a
+                        >
+                    </div>
+                </div>
+                <div className='webdevbox'>
                     <h3>CRUD App - Flask</h3>
                     <p>Tried making a CRUD App using flask. I followed its documentation and help from youtube videos to make this app.
                         The live website and github Repository links are given below
