@@ -21,10 +21,10 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/amazon-clone-fullstack"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        <a href="https://clone-react-63f94.web.app/" target="/blank"
+                        <a href="https://clone-react-63f94.web.app/" target="_blank"
                         >Live</a
                         >
                     </div>
@@ -35,10 +35,10 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/Tinder-MERN"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        <a href="https://tindermerncloneee.netlify.app/" target="/blank"
+                        <a href="https://tindermerncloneee.netlify.app/" target="_blank"
                         >Live</a
                         >
                     </div>
@@ -54,10 +54,10 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/microsoft-clone-tailwindk"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        <a href="https://microsoftclonegauthking.netlify.app/" target="/blank"
+                        <a href="https://microsoftclonegauthking.netlify.app/" target="_blank"
                         >Live</a
                         >
                     </div>
@@ -68,7 +68,7 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/portfolioV2"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                         <a href="/"
@@ -85,7 +85,7 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/gocCHEF-frontend"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                         <a href="https://gochef.netlify.app/"
@@ -99,7 +99,7 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/anime-facts-restapi-frontend"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                         <a href="https://the-awesome-gauthking-site.netlify.app/"
@@ -115,7 +115,7 @@ function ProjectMain() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/firstCRUDapp-Flask"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                         <a href="https://todoappgauthking.herokuapp.com/"

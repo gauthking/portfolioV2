@@ -22,7 +22,7 @@ function NFT() {
                     <div className="links">
                         <a
                             href="https://opensea.io/collection/micropuppiesnft"
-                            target="/blank"
+                            target="_blank"
                         >Live</a
                         >
 
@@ -34,12 +34,12 @@ function NFT() {
                     <div className="links">
                         <a
                             href="https://cryptokraken-nfts.herokuapp.com/"
-                            target="/blank"
+                            target="_blank"
                         >Live</a
                         >
                         <a
                             href="https://github.com/JazzBlaze"
-                            target="/blank"
+                            target="_blank"
                         >Teammate's GitHub</a
                         >
 

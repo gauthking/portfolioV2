@@ -17,7 +17,7 @@ function Socials() {
                     <img src={insta} alt="" />
                     <a
                         href="https://www.instagram.com/_thegauthamkrishhna._/"
-                        target="/blank"
+                        target="_blank"
                         class="skilltext1"
                     >Instagram</a
                     >
@@ -26,7 +26,7 @@ function Socials() {
                     <img src={tweet} alt="" />
                     <a
                         href="https://twitter.com/pointlessduhh"
-                        target="/blank"
+                        target="_blank"
                         class="skilltext1"
                     >Twitter</a
                     >
@@ -35,7 +35,7 @@ function Socials() {
                     <img src={git} alt="" />
                     <a
                         href="https://github.com/gauthking"
-                        target="/blank"
+                        target="_blank"
                         class="skilltext1"
                     >GitHub</a
                     >
@@ -44,7 +44,7 @@ function Socials() {
                     <img src={linkedin} alt="" />
                     <a
                         href="https://www.linkedin.com/in/c-p-gautham-krishna-580450227"
-                        target="/blank"
+                        target="_blank"
                         class="skilltext1"
                     >LinkedIn</a
                     >
@@ -53,7 +53,7 @@ function Socials() {
                     <img src={hack} alt="" />
                     <a
                         href="https://www.hackerrank.com/GAUTHAM1234"
-                        target="/blank"
+                        target="_blank"
                         class="skilltext1"
                     >Hackerrank</a
                     >

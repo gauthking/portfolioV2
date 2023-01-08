@@ -16,7 +16,7 @@ function Python() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/python-projects/tree/main/duplicatefilecleaner/testfold"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
 
@@ -33,7 +33,7 @@ function Python() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/simpleVoiceAssistant"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                     </div>
@@ -46,7 +46,7 @@ function Python() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/NFT_MINTtool"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                     </div>
@@ -60,7 +60,7 @@ function Python() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/python-projects/tree/main/automation/basicwebscraptools"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
                     </div>
