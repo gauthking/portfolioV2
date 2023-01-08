@@ -14,11 +14,28 @@ function Dapp() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/web3-rockpaperscissor-game"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="/blank"
+                        <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="_blank"
                         >Live</a
+                        >
+                    </div>
+                </div>
+                <div className='dappbox'>
+                    <h3>Decentralised Fundraiser App - LUMOS BUIDL Winners</h3>
+                    <p>A decentralized platform using blockchain that automatically handles all fundraising and disputes. This d-App is being deployed on the Polygon Mumbai Testnet as this build was registered under the Polygon Pool Track. This was my first hackathon which I collaborated with my Web3 pal Sabari. It was an amazing experience working on this project. Our team 'Green Genesis' won under the Polygon Pool Track for this hackathon. Visit the project URL to read about our project and also you can checkout the demo video and access the live site for our project.</p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/gauthking/lumos-letsgo"
+                            target="_blank"
+                        >GitHub</a
+                        >
+                        <a href="https://hashfunder.netlify.app/" target="_blank"
+                        >Live</a
+                        >
+                        <a href="https://pdfhost.io/v/6hA7nXbsJ_C_P_GAUTHAM_KRISHNA_Winner_Certificate" target="_blank"
+                        >Certificate</a
                         >
                     </div>
                 </div>
@@ -28,10 +45,10 @@ function Dapp() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/first-dApp-greet"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="/blank"
+                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="_blank"
                         >Live</a
                         > */}
                     </div>
@@ -42,10 +59,10 @@ function Dapp() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/voting-ballot--contract"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="/blank"
+                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="_blank"
                         >Live</a
                         > */}
                     </div>
@@ -56,10 +73,10 @@ function Dapp() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/registration-form-contract"
-                            target="/blank"
+                            target="_blank"
                         >GitHub</a
                         >
-                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="/blank"
+                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="_blank"
                         >Live</a
                         > */}
                     </div>
