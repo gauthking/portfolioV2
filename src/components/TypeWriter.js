@@ -8,7 +8,6 @@ function TypeWriter() {
             <Typewriter
 
                 onInit={(typewriter) => {
-
                     typewriter
                         .typeString("Full Stack Web Developer")
                         .pauseFor(1000)

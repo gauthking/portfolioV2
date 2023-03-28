@@ -10,6 +10,18 @@ function ProjectMain() {
             <ParticleBG />
             <div className='webdev'>
                 <div className='webdevbox' >
+                    <h3>Gamercollide - MERN Stack</h3>
+                    <p>Full stack website made for posting reviews and critics of different games. Give rating and list games based on the rating and more factors. Users can create their profile on this app and post and view game critics. This app is still under development and is not hosted for now. However, link to the github repository is given below</p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/gauthking/gamercollide-full-stack"
+                            target="_blank"
+                        >GitHub</a
+                        >
+
+                    </div>
+                </div>
+                <div className='webdevbox' >
                     <h3>Amazon Clone - React x Firebase</h3>
                     <p>First full stack web app made with REACT (frontend) and the
                         backend functionalites like authentication, realtime database and

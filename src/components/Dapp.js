@@ -9,6 +9,21 @@ function Dapp() {
             <ParticleBG />
             <div className='dapp'>
                 <div className='dappbox'>
+                    <h3>PAY4ALL - Decentralized Payments and Tip Management App - WON UNDER ETH4ALL QUICKNODE TRACK - ETHINDIA</h3>
+                    <p>A Decentralized Payment Platform for Fair and Transparent Compensation of Municipal and Sanitation Workers, Promoting Financial Responsibility and Blockchain Adoption at the Grassroots Level. THIS PROJECT won under QUICKNODE track of the ETH4ALL by ETHINDIA Hackathon. For now we have just come up with base pitch for this idea and a sample SMART CONTRACT for it, the frotend and other features for this dApp is still under development and planning process
+                    </p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/chiranjeev13/pay4all"
+                            target="_blank"
+                        >GitHub</a>
+                        <a
+                            href="https://docs.google.com/presentation/d/1r0vLOzjY1dSu_ISG1dfZX1mQOxsdAf-L9fZJDW9rc5c/edit#slide=id.gd91e1f37e_0_0"
+                            target="_blank"
+                        >Read About</a>
+                    </div>
+                </div>
+                <div className='dappbox'>
                     <h3>Rock Paper Scissor DAPP - Web3 Game - React, Solidity, Remix IDE</h3>
                     <p>This is a "Web3 game" ( you can say), basically a win and mint NFT type of dApp where the user can play “Rock-Paper-Scissors” against the system and if he/she scores more than 3 out of 6 then that person will eligible to MINT the NFT. They need to enter their name and click on the mint button and finally sign in with the metamask wallet to get the NFT minted with their name. NOTE : Rinkeby Testnet is used here for connecting and minting using MetaMask. This project can be also implemented using Mainnet. Build : The Frontend is built using React and TailwindCSS (still need to work on UI) . Backend is built using Moralis Web3 tools ( includes web3 metamask authentication and saving to IPFS tools). Used Web3.js for interacting with the smart contract. Pinata is used for saving the NFT media, which I think is a really helpful tool for web3 developers out there ! Wanna know something cool, I'll be intergrating Chainlink's VRF into this dApp very soon</p>
                     <div className="links">
