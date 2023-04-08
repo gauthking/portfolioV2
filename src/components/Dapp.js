@@ -21,6 +21,10 @@ function Dapp() {
                             href="https://docs.google.com/presentation/d/1r0vLOzjY1dSu_ISG1dfZX1mQOxsdAf-L9fZJDW9rc5c/edit#slide=id.gd91e1f37e_0_0"
                             target="_blank"
                         >Read About</a>
+         <a
+                            href="https://devfolio.co/projects/payall-6ea0"
+                            target="_blank"
+                        >Devfolio Link</a>
                     </div>
                 </div>
                 <div className='dappbox'>
