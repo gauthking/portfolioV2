@@ -33,7 +33,7 @@ function Dapp() {
                     </p>
                     <div className="links">
                         <a
-                            href="https://github.com/DAO-Community-VITC/DAOboard
+                            href="https://github.com/DAO-Community-VITC/DAOboard"
                             target="_blank"
                         >GitHub</a>
                     </div>
