@@ -28,6 +28,17 @@ function Dapp() {
                     </div>
                 </div>
                 <div className='dappbox'>
+                    <h3>The DAOBOARD - Decentralized Leaderboard and Task Management System</h3>
+                    <p>Built a fully Decentralized Leaderboard Application for DAO Community VIT Chennai. The first version of the application is completed and it is currently under beta testing. I worked on the smart contract dev and it’s Frontend integration using Ethers.js and React. Currently managing the beta testing team and working on further improvements for the dApp.
+                    </p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/DAO-Community-VITC/DAOboard
+                            target="_blank"
+                        >GitHub</a>
+                    </div>
+                </div>                
+                <div className='dappbox'>
                     <h3>Rock Paper Scissor DAPP - Web3 Game - React, Solidity, Remix IDE</h3>
                     <p>This is a "Web3 game" ( you can say), basically a win and mint NFT type of dApp where the user can play “Rock-Paper-Scissors” against the system and if he/she scores more than 3 out of 6 then that person will eligible to MINT the NFT. They need to enter their name and click on the mint button and finally sign in with the metamask wallet to get the NFT minted with their name. NOTE : Rinkeby Testnet is used here for connecting and minting using MetaMask. This project can be also implemented using Mainnet. Build : The Frontend is built using React and TailwindCSS (still need to work on UI) . Backend is built using Moralis Web3 tools ( includes web3 metamask authentication and saving to IPFS tools). Used Web3.js for interacting with the smart contract. Pinata is used for saving the NFT media, which I think is a really helpful tool for web3 developers out there ! Wanna know something cool, I'll be intergrating Chainlink's VRF into this dApp very soon</p>
                     <div className="links">
@@ -78,6 +89,20 @@ function Dapp() {
                     <div className="links">
                         <a
                             href="https://github.com/gauthking/voting-ballot--contract"
+                            target="_blank"
+                        >GitHub</a
+                        >
+                        {/* <a href="https://62ed00ac6dd4364648973813--rockpaperscissordappweb3.netlify.app/" target="_blank"
+                        >Live</a
+                        > */}
+                    </div>
+                </div>
+                <div className='dappbox'>
+                    <h3>NFT Minting App</h3>
+                    <p>Made a basic application that uses ERC721 and ERC721URIStorage contracts in the backend and frontend in React, allowing the user to upload any image where that image is uploaded to nft storage and then the metadata into IPFS, finally lets the user mint the image as NFT on Polygon Mumbai Testnet.</p>
+                    <div className="links">
+                        <a
+                            href="https://github.com/DAO-Community-VITC/nft-workshop-complete"
                             target="_blank"
                         >GitHub</a
                         >
